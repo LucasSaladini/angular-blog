@@ -14,7 +14,15 @@
   margin-top: 15px;
 }
 
-.big-card__description > p {
+.big-card__description {
+  margin-top: 20px;
+}
+
+.big-card__description > p > a {
   color: gray;
-  margin-top: 10px;
+}
+
+.big-card__picture {
+  width: 100%;
+  min-width: 400px;
 }
